@@ -1,7 +1,6 @@
 var responce = prompt('Do you prefer Kyrgyz nature, Kyrgyz food, Kyrgyz tour or Everything?');
 var item;
-
-if (responce ==='Kyrgyz nature'){
+  if (responce ==='Kyrgyz nature'){
     item = '<img src=love Kyrgyz nature';
 } else if (responce === 'Kyrgyz food'){
     item = 'Kyrgyz food the best!';
