@@ -14,5 +14,5 @@ if (responce ==='Kyrgyz nature'){
     }
 
 document.write('<p>' + item + '</p>');
-
+ 
 
